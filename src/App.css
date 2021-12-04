@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Oswald", sans-serif !important;
+}
+
+body a {
+  color: #000;
+  text-decoration: none;
+}
+
+body a:hover {
+  color: #ffc107;
+}
+
+i::before {
+  vertical-align: middle !important;
+}
+
+img {
+  max-width: 100%;
+  width: auto;
+}
+
+body h2 {
+  font-size: 1.2rem;
+}
